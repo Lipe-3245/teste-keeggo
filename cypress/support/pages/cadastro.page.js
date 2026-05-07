@@ -34,6 +34,7 @@ class CadastroPage {
     this.inputCep.type(cep);
     this.inputTelefone.type(telefone);
     this.inputEmail.type(email);
+    this.inputEmail.type(email);
   }
 }
 
